@@ -1,0 +1,463 @@
+.your-dashboard {
+  position: relative;
+  line-height: 22px;
+}
+.header6 {
+  border: 0;
+  background-color: transparent;
+  align-self: stretch;
+  height: 54px;
+  font-family: "Proxima Nova";
+  font-weight: 700;
+  font-size: 18px;
+  color: #fff;
+}
+.cards-icon2 {
+  height: 133px;
+  width: 124px;
+  position: relative;
+  object-fit: cover;
+}
+.esim-uruguay2 {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 90px;
+}
+.cards-container {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 30px 0 0;
+  box-sizing: border-box;
+  gap: 15px;
+  min-width: 226px;
+  max-width: 100%;
+  color: #1d1d1d;
+}
+.div14 {
+  white-space: nowrap;
+}
+.credits,
+.div14 {
+  width: 150px;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+}
+.parent3 {
+  width: 192px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 20px 0 0;
+  box-sizing: border-box;
+  gap: 10px;
+}
+.hrs,
+.up-time {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.up-time-parent {
+  width: 150px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.icons-block {
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.icons-block-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 3px;
+}
+.april-2024,
+.next-renewal {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.next-renewal-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.frame-wrapper10 {
+  width: 152px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 1px;
+  box-sizing: border-box;
+}
+.cancel {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 55px;
+}
+.icons-block1 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.icons-block-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0 0;
+}
+.renew {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 56px;
+}
+.cancel-parent,
+.frame-parent31 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 7px;
+}
+.cancel-parent {
+  align-self: stretch;
+  justify-content: space-between;
+  gap: 20px;
+}
+.frame-parent30 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 36px;
+}
+.frame-parent28,
+.frame-parent29 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.frame-parent29 {
+  width: 193px;
+  align-items: flex-end;
+  gap: 7px;
+}
+.frame-parent28 {
+  align-self: stretch;
+  align-items: flex-start;
+  gap: 34px;
+  max-width: 100%;
+}
+.frame-child7 {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid #cacaca;
+  box-sizing: border-box;
+}
+.frame-parent27,
+.your-dashboard-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent27 {
+  align-self: stretch;
+  gap: 15px;
+}
+.your-dashboard-parent {
+  flex: 1;
+  gap: 36px;
+}
+.user-details {
+  position: relative;
+  line-height: 22px;
+  font-weight: 700;
+  display: inline-block;
+  min-width: 100px;
+}
+.header-frame,
+.header7 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.header7 {
+  flex: 1;
+  border-radius: 5px;
+  background-color: #9f0132;
+  overflow: hidden;
+  padding: 16px 24px;
+}
+.header-frame {
+  align-self: stretch;
+  padding: 0 0 4px;
+  font-size: 18px;
+  color: #fff;
+  font-family: "Proxima Nova";
+}
+.darnell-roob,
+.name {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 50px;
+}
+.darnell-roob {
+  text-align: right;
+  min-width: 105px;
+}
+.checkout-details-inner7,
+.name-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.name-parent {
+  flex: 1;
+  justify-content: space-between;
+  gap: 20px;
+}
+.checkout-details-inner7 {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 25px;
+  box-sizing: border-box;
+}
+.email-address {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 115px;
+}
+.darnellroobhotmailcom {
+  position: relative;
+  line-height: 22px;
+  text-align: right;
+  white-space: nowrap;
+}
+.checkout-details-inner8,
+.email-address-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.email-address-parent {
+  flex: 1;
+  justify-content: space-between;
+  gap: 20px;
+}
+.checkout-details-inner8 {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 25px;
+  box-sizing: border-box;
+}
+.basic,
+.plan {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 37px;
+}
+.basic {
+  text-align: right;
+  min-width: 43px;
+}
+.checkout-details-inner9,
+.plan-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.plan-parent {
+  flex: 1;
+  justify-content: space-between;
+  gap: 20px;
+}
+.checkout-details-inner9 {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 25px;
+  box-sizing: border-box;
+}
+.april-20241,
+.expiry-date {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 93px;
+}
+.april-20241 {
+  text-align: right;
+  min-width: 108px;
+}
+.checkout-details-inner10,
+.expiry-date-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.expiry-date-parent {
+  flex: 1;
+  justify-content: space-between;
+  gap: 20px;
+}
+.checkout-details-inner10 {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 25px;
+  box-sizing: border-box;
+}
+.auto-renewal,
+.on {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 112px;
+}
+.on {
+  text-align: right;
+  min-width: 25px;
+}
+.auto-renewal-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: 20px;
+}
+.checkout-details-inner11,
+.checkout-details4 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.checkout-details-inner11 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 25px;
+}
+.checkout-details4 {
+  flex: 1;
+  border-radius: 5px;
+  background-color: #fff;
+  flex-direction: column;
+  padding: 0 0 32px;
+  gap: 32px;
+}
+.checkout-details-wrapper {
+  width: 504px;
+  background-color: #9f0132;
+  justify-content: flex-start;
+  min-width: 504px;
+}
+.buy-credits-inner,
+.checkout-details-wrapper,
+.frame-parent26 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent26 {
+  width: 1536px;
+  justify-content: flex-start;
+  gap: 47px;
+}
+.buy-credits-inner {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 20px 80px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 16px;
+  color: #000;
+  font-family: Montserrat;
+}
+@media screen and (max-width: 1275px) {
+  .checkout-details-wrapper {
+    flex: 1;
+  }
+  .frame-parent26 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1100px) {
+  .frame-parent28 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 750px) {
+  .frame-parent28 {
+    gap: 17px;
+  }
+  .your-dashboard-parent {
+    gap: 18px;
+    min-width: 100%;
+  }
+  .checkout-details4 {
+    gap: 16px;
+  }
+  .checkout-details-wrapper {
+    gap: 23px;
+    min-width: 100%;
+  }
+  .frame-parent26 {
+    gap: 23px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .cards-icon2 {
+    flex: 1;
+  }
+  .cards-container,
+  .email-address-parent,
+  .expiry-date-parent,
+  .name-parent,
+  .plan-parent {
+    flex-wrap: wrap;
+  }
+  .buy-credits-inner {
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}

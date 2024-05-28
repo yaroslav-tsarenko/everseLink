@@ -1,0 +1,226 @@
+.go3 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 27px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.background12 {
+  flex: 1;
+  border-radius: 24px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 269px 20px 268px;
+  box-sizing: border-box;
+  background-image: url(/public/background3@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  min-width: 386px;
+  max-width: 100%;
+}
+.coonect3 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 27px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.background-parent2,
+.gomoworld-website-imagefiles-d3 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.gomoworld-website-imagefiles-d3 {
+  border-radius: 24px;
+  overflow: hidden;
+  justify-content: flex-start;
+  padding: 268px 71px 269px;
+  box-sizing: border-box;
+  background-image: url(/public/gomoworld-website-imagefiles-d204webp2@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  min-width: 564px;
+}
+.background-parent2 {
+  width: 1185px;
+  justify-content: center;
+  gap: 27px;
+}
+.background-inner3,
+.background11 {
+  align-self: stretch;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.background-inner3 {
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px 0 21px;
+  text-align: left;
+  font-size: 96px;
+  color: #9f0132;
+  font-family: Montserrat;
+}
+.background11 {
+  background-color: #fff;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 50px 0 122.4px;
+  gap: 71.7px;
+  flex-shrink: 0;
+}
+.item-link14 {
+  width: 86px;
+  font-size: 12.3px;
+  color: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.item-link14,
+.item-link15,
+.item-link16 {
+  position: relative;
+  line-height: 16.1px;
+}
+.item-link15 {
+  width: 47px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.item-link16 {
+  font-size: 12.4px;
+  color: inherit;
+  display: inline-block;
+  text-decoration: none;
+  min-width: 85px;
+}
+.item-link17,
+.item-link18 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.item-link17 {
+  width: 119.9px;
+  font-size: 12.1px;
+  line-height: 16.1px;
+  min-width: 119.9px;
+}
+.item-link18 {
+  width: 106px;
+  font-size: 12.5px;
+  line-height: 16px;
+}
+.item-link19,
+.item-link20 {
+  position: relative;
+  line-height: 16.1px;
+  display: inline-block;
+}
+.item-link19 {
+  letter-spacing: -0.01px;
+  min-width: 103.3px;
+}
+.item-link20 {
+  font-size: 13px;
+  min-width: 80px;
+}
+.background13,
+.how-it-works {
+  display: flex;
+  align-items: flex-start;
+}
+.background13 {
+  align-self: stretch;
+  background-color: #000;
+  flex-direction: row;
+  justify-content: center;
+  padding: 6.9px 20px 39px;
+  gap: 7.8px;
+}
+.how-it-works {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(#fff, #fff), #fff;
+  overflow-y: auto;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 0 61.7px;
+  box-sizing: border-box;
+  gap: 0.1px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  font-size: 12.7px;
+  color: #fff;
+  font-family: Montserrat;
+}
+@media screen and (max-width: 1350px) {
+  .gomoworld-website-imagefiles-d3 {
+    flex: 1;
+  }
+  .background-parent2 {
+    flex-wrap: wrap;
+  }
+  .background11 {
+    gap: 36px;
+    padding-top: 21px;
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 925px) {
+  .go3 {
+    font-size: 48px;
+    line-height: 16px;
+  }
+  .background12 {
+    padding-top: 175px;
+    padding-bottom: 174px;
+    box-sizing: border-box;
+    min-width: 100%;
+  }
+  .coonect3 {
+    font-size: 48px;
+    line-height: 16px;
+  }
+  .gomoworld-website-imagefiles-d3 {
+    padding: 174px 35px 175px;
+    box-sizing: border-box;
+    min-width: 100%;
+  }
+  .background11 {
+    gap: 18px;
+    padding-top: 20px;
+    padding-bottom: 34px;
+    box-sizing: border-box;
+  }
+  .background13 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 450px) {
+  .coonect3,
+  .go3 {
+    font-size: 29px;
+    line-height: 11px;
+  }
+}

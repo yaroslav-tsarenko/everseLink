@@ -1,0 +1,332 @@
+.everselink6,
+.vector-icon5 {
+  position: relative;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.vector-icon5 {
+  height: 48px;
+  width: 82.4px;
+}
+.everselink6 {
+  text-decoration: none;
+  line-height: 17px;
+  font-weight: 700;
+  color: inherit;
+  white-space: nowrap;
+}
+.everselink-wrapper3,
+.vector-parent3 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.everselink-wrapper3 {
+  flex-direction: column;
+  padding: 15.5px 0 0;
+}
+.vector-parent3 {
+  flex-direction: row;
+  gap: 10px;
+  max-width: 100%;
+}
+.item-link43 {
+  text-decoration: none;
+  width: 41.7px;
+  position: relative;
+  line-height: 16px;
+  font-weight: 700;
+  color: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  min-width: 41.7px;
+}
+.item-link44 {
+  font-size: 12.9px;
+  display: inline-block;
+  min-width: 91.2px;
+}
+.item-link44,
+.item-link45,
+.item-link46,
+.item-link47 {
+  text-decoration: none;
+  position: relative;
+  line-height: 16px;
+  font-weight: 700;
+  color: inherit;
+}
+.item-link45 {
+  font-size: 12.1px;
+  display: inline-block;
+  min-width: 94.4px;
+  white-space: nowrap;
+}
+.item-link46,
+.item-link47 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.item-link46 {
+  width: 32.8px;
+  font-size: 13.1px;
+  min-width: 32.8px;
+  white-space: nowrap;
+}
+.item-link47 {
+  width: 37.7px;
+  font-size: 13px;
+  min-width: 37.7px;
+}
+.frame-nav,
+.frame-wrapper8 {
+  display: flex;
+  align-items: flex-start;
+}
+.frame-nav {
+  margin: 0;
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px;
+  text-align: center;
+  font-size: 12.8px;
+  color: #fff;
+  font-family: Montserrat;
+}
+.frame-wrapper8 {
+  width: 397.7px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 19px 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.image-icon3 {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.image-wrapper1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 5.6px;
+}
+.en3 {
+  text-decoration: none;
+  flex: 1;
+  position: relative;
+  line-height: 36px;
+  color: inherit;
+}
+.frame-parent25,
+.frame-wrapper9 {
+  display: flex;
+  justify-content: flex-start;
+}
+.frame-parent25 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-end;
+  gap: 10.3px;
+}
+.frame-wrapper9 {
+  width: 64.3px;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 8px 0 0;
+  box-sizing: border-box;
+}
+.button12 {
+  height: 54px;
+  flex: 1;
+}
+.background18,
+.frame-parent23,
+.frame-parent24 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.frame-parent24 {
+  width: 250.3px;
+  justify-content: flex-start;
+  gap: 25.5px;
+}
+.background18,
+.frame-parent23 {
+  max-width: 100%;
+}
+.frame-parent23 {
+  width: 784px;
+  justify-content: space-between;
+  gap: 20px;
+  text-align: left;
+  font-size: 11.6px;
+}
+.background18 {
+  align-self: stretch;
+  background-color: #9f0132;
+  justify-content: center;
+  padding: 24px 20px 24px 71px;
+  box-sizing: border-box;
+  gap: 116px;
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  text-align: center;
+  font-size: 39.7px;
+  color: #fff;
+  font-family: Montserrat;
+}
+.arrow-left-icon2 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+}
+.arrow-left-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0 0;
+}
+.back2 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 41px;
+}
+.button13 {
+  border-radius: 32px 32px 32px 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 12px;
+  gap: 9px;
+}
+.welcome-nowa {
+  position: relative;
+  line-height: 22px;
+}
+.welcome-nowa-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 12px 0 0;
+}
+.credit {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 50px;
+}
+.arrow-right-icon2 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+}
+.arrow-right-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0 0;
+}
+.dashboard {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 89px;
+}
+.button14 {
+  border-radius: 32px 32px 32px 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 12px;
+  gap: 10px;
+}
+.background-parent3,
+.button-container {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+}
+.button-container {
+  background-color: #9f0132;
+  overflow: hidden;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 80px 192px;
+  gap: 20px;
+}
+.background-parent3 {
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 0 80px;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: 16px;
+  color: #262626;
+  font-family: Montserrat;
+}
+@media screen and (max-width: 1275px) {
+  .frame-nav {
+    display: none;
+  }
+  .frame-wrapper8 {
+    width: 0;
+  }
+  .background18 {
+    padding-left: 35px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1100px) {
+  .button-container {
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-left: 96px;
+    padding-right: 96px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .frame-parent24 {
+    display: none;
+  }
+  .frame-parent23 {
+    width: 533.7000000000116px;
+  }
+  .background18 {
+    gap: 58px;
+  }
+  .button-container {
+    padding-left: 48px;
+    padding-right: 48px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .background18 {
+    gap: 29px;
+  }
+  .background-parent3 {
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}

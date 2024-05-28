@@ -1,0 +1,447 @@
+.blog1 {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: -2px;
+  line-height: 63px;
+}
+.welcome-to-the {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  line-height: 20.7px;
+  display: inline-block;
+  max-width: 100%;
+}
+.blog-description {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 0 66px;
+  box-sizing: border-box;
+  font-size: 15.5px;
+}
+.blog-description,
+.blog-header,
+.blog-title-container {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.blog-title-container {
+  width: 892.6px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 92.9px;
+}
+.blog-header {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px 0 21px;
+  box-sizing: border-box;
+}
+.link-edgar-chaparro-7hdi-ekg {
+  align-self: stretch;
+  height: 315px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  cursor: pointer;
+}
+.link-travel {
+  position: relative;
+  letter-spacing: 0.5px;
+  line-height: 14px;
+  text-transform: uppercase;
+  display: inline-block;
+  min-width: 96.4px;
+}
+.unleashing-the-power {
+  margin: 0;
+  width: 433.1px;
+  position: relative;
+  font-size: 18.6px;
+  letter-spacing: -2px;
+  line-height: 28px;
+  font-weight: 700;
+  color: #292929;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.article,
+.border {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.border {
+  align-self: stretch;
+  border-radius: 0 0 24px 24px;
+  border-right: 1px solid #e6e6e6;
+  border-bottom: 1px solid #e6e6e6;
+  border-left: 1px solid #e6e6e6;
+  box-sizing: border-box;
+  padding: 24px 20px 47px 25px;
+  gap: 16px;
+  flex-shrink: 0;
+}
+.article {
+  flex: 1;
+  border-radius: 24px;
+  background-color: #fff;
+  overflow: hidden;
+}
+.link-shutterstock-1330423565 {
+  align-self: stretch;
+  height: 315px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.link-travel1 {
+  position: relative;
+  letter-spacing: 0.5px;
+  line-height: 14px;
+  text-transform: uppercase;
+  display: inline-block;
+  min-width: 96.4px;
+}
+.heading-2 {
+  width: 486px;
+  position: relative;
+  font-size: 18.4px;
+  letter-spacing: -2px;
+  line-height: 28px;
+  display: flex;
+  color: #292929;
+  align-items: center;
+  max-width: 100%;
+}
+.paragraphborder {
+  align-self: stretch;
+  border-radius: 0 0 24px 24px;
+  border-right: 1px solid #e6e6e6;
+  border-bottom: 1px solid #e6e6e6;
+  border-left: 1px solid #e6e6e6;
+  box-sizing: border-box;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 24px 20px 48px 25px;
+  gap: 15.7px;
+  flex-shrink: 0;
+}
+.article-container,
+.article1,
+.paragraphborder {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.article1 {
+  flex: 1;
+  border-radius: 24px;
+  background-color: #fff;
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 0 28px;
+  box-sizing: border-box;
+}
+.article-container {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  gap: 30px;
+  text-align: left;
+  font-size: 10.1px;
+  color: #9f0132;
+}
+.blog-content,
+.content-container {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.blog-content {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 99.5px;
+}
+.content-container {
+  width: 1185px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 23px 0 22px;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.container3 {
+  width: 1170px;
+  height: 1px;
+  position: relative;
+  display: none;
+  max-width: 100%;
+}
+.go4 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 27px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.background15 {
+  flex: 1;
+  border-radius: 24px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 269px 20px 268px;
+  box-sizing: border-box;
+  background-image: url(/public/background3@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  min-width: 386px;
+  max-width: 100%;
+}
+.coonect4 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 27px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.gomoworld-website-imagefiles-d4,
+.image-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.gomoworld-website-imagefiles-d4 {
+  border-radius: 24px;
+  overflow: hidden;
+  padding: 268px 71px 269px;
+  box-sizing: border-box;
+  background-image: url(/public/gomoworld-website-imagefiles-d204webp2@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  min-width: 564px;
+}
+.image-container {
+  width: 1185px;
+  gap: 27px;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: 96px;
+  color: #9f0132;
+}
+.background14,
+.item-link21 {
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.background14 {
+  align-self: stretch;
+  background-color: #fff;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 63.9px 20px 100.3px 21px;
+  box-sizing: border-box;
+  gap: 138.7px;
+  max-width: 100%;
+  text-align: center;
+  font-size: 53.7px;
+  color: #292929;
+  font-family: Montserrat;
+}
+.item-link21 {
+  width: 86px;
+  font-size: 12.3px;
+  color: inherit;
+  justify-content: center;
+  text-decoration: none;
+}
+.item-link21,
+.item-link22,
+.item-link23 {
+  position: relative;
+  line-height: 16.1px;
+}
+.item-link22 {
+  width: 47px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.item-link23 {
+  font-size: 12.4px;
+  color: inherit;
+  display: inline-block;
+  text-decoration: none;
+  min-width: 85px;
+}
+.item-link24,
+.item-link25 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.item-link24 {
+  width: 119.9px;
+  font-size: 12.1px;
+  line-height: 16.1px;
+  min-width: 119.9px;
+}
+.item-link25 {
+  width: 106px;
+  font-size: 12.5px;
+  line-height: 16px;
+}
+.item-link26,
+.item-link27 {
+  position: relative;
+  line-height: 16.1px;
+  display: inline-block;
+}
+.item-link26 {
+  letter-spacing: -0.01px;
+  min-width: 103.3px;
+}
+.item-link27 {
+  font-size: 13px;
+  min-width: 80px;
+}
+.background16,
+.blog {
+  display: flex;
+  align-items: flex-start;
+}
+.background16 {
+  align-self: stretch;
+  background-color: #000;
+  flex-direction: row;
+  justify-content: center;
+  padding: 6.9px 20px 39px;
+  gap: 7.8px;
+}
+.blog {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(#fff, #fff), #fff;
+  overflow-y: auto;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 0 61.7px;
+  box-sizing: border-box;
+  gap: 0.2px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  font-size: 12.7px;
+  color: #fff;
+  font-family: Montserrat;
+}
+@media screen and (max-width: 1200px) {
+  .blog-content {
+    gap: 50px;
+  }
+  .background14 {
+    gap: 69px;
+    padding-top: 42px;
+    padding-bottom: 65px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .blog1 {
+    font-size: 43px;
+    line-height: 50px;
+  }
+  .blog-description {
+    padding-left: 33px;
+    padding-right: 33px;
+    box-sizing: border-box;
+  }
+  .blog-title-container {
+    gap: 46px;
+  }
+  .article-container {
+    flex-wrap: wrap;
+  }
+  .coonect4,
+  .go4 {
+    font-size: 48px;
+    line-height: 16px;
+  }
+  .gomoworld-website-imagefiles-d4 {
+    flex: 1;
+  }
+  .image-container {
+    flex-wrap: wrap;
+  }
+  .background14 {
+    padding-top: 27px;
+    padding-bottom: 42px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .blog-content {
+    gap: 25px;
+  }
+  .background15 {
+    padding-top: 175px;
+    padding-bottom: 174px;
+    box-sizing: border-box;
+    min-width: 100%;
+  }
+  .gomoworld-website-imagefiles-d4 {
+    padding: 174px 35px 175px;
+    box-sizing: border-box;
+    min-width: 100%;
+  }
+  .background14 {
+    gap: 35px;
+  }
+  .background16 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 450px) {
+  .blog1 {
+    font-size: 32px;
+    line-height: 37px;
+  }
+  .blog-title-container {
+    gap: 23px;
+  }
+  .coonect4,
+  .go4 {
+    font-size: 29px;
+    line-height: 11px;
+  }
+  .background14 {
+    gap: 17px;
+    padding-top: 20px;
+    padding-bottom: 27px;
+    box-sizing: border-box;
+  }
+}

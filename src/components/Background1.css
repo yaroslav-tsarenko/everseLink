@@ -1,0 +1,113 @@
+.heading-1,
+.your-gateway-to {
+  width: 472px;
+  position: relative;
+  max-width: 100%;
+}
+.heading-1 {
+  height: 203px;
+  display: none;
+}
+.your-gateway-to {
+  letter-spacing: -2.8px;
+  line-height: 68px;
+  display: flex;
+  align-items: center;
+  z-index: 1;
+}
+.ay-goodbye-to,
+.in-todays-fast-paced {
+  margin: 0;
+  position: relative;
+  letter-spacing: -0.5px;
+  line-height: 20.7px;
+  font-weight: 700;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.in-todays-fast-paced {
+  align-self: stretch;
+}
+.ay-goodbye-to {
+  width: 432px;
+  font-size: 14.1px;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.in-todays-fast-paced-world-s-parent {
+  width: 477.2px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+  max-width: 100%;
+  font-size: 13.8px;
+}
+.background18,
+.input {
+  max-width: 100%;
+  font-family: Montserrat;
+}
+.input {
+  border: 0;
+  background-color: transparent;
+  width: 434px;
+  height: 52px;
+  font-weight: 700;
+  font-size: 12.4px;
+  color: #515151;
+}
+.background18 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 213px 430px 256px;
+  box-sizing: border-box;
+  gap: 24px;
+  background-image: url(/public/background@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: 52.1px;
+  color: #fff;
+}
+@media screen and (max-width: 1200px) {
+  .background18 {
+    padding-left: 215px;
+    padding-right: 215px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .your-gateway-to {
+    font-size: 42px;
+    line-height: 54px;
+  }
+  .background18 {
+    padding-top: 138px;
+    padding-bottom: 166px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .background18 {
+    padding-left: 107px;
+    padding-right: 107px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .your-gateway-to {
+    font-size: 31px;
+    line-height: 41px;
+  }
+  .background18 {
+    padding: 90px 20px 108px;
+    box-sizing: border-box;
+  }
+}

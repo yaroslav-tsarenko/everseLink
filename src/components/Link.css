@@ -1,0 +1,98 @@
+.europepng-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.heading-23 {
+  position: relative;
+  letter-spacing: -2px;
+  line-height: 36px;
+  font-weight: 700;
+  display: inline-block;
+  min-width: 64.1px;
+}
+.heading-2-europe-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 16px;
+}
+.from1 {
+  line-height: 12px;
+  font-weight: 700;
+  display: inline-block;
+  min-width: 25.7px;
+}
+.b1,
+.from1,
+.icon1 {
+  position: relative;
+}
+.b1 {
+  line-height: 36px;
+  font-weight: 700;
+  display: inline-block;
+  min-width: 62.9px;
+  white-space: nowrap;
+}
+.icon1 {
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.group,
+.icon-container {
+  display: flex;
+  align-items: flex-start;
+}
+.icon-container {
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 4px 0 0;
+}
+.group {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px;
+  font-size: 19.5px;
+}
+.from-group {
+  flex: 1;
+  flex-direction: column;
+}
+.from-group,
+.link-child,
+.link11 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link-child {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 16px;
+  font-size: 9.6px;
+}
+.link11 {
+  height: 361.1px;
+  border-radius: 24px;
+  background-color: #fff;
+  border: 1px solid #b8b8b8;
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-direction: column;
+  padding: 1px 0 25px;
+  gap: 15.5px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 18.8px;
+  color: #292929;
+  font-family: Montserrat;
+}
